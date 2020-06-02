@@ -1,3 +1,3 @@
 def oxford_comma(array)
-aray
+oxford_comma = ["kiwi"]
 end
